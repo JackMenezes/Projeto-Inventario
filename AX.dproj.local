@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/05/16 14:49:29.000.286,=C:\Projects\SGDv3\Project\Unit1.pas</Transaction>
+    <Transaction>2016/05/16 14:58:47.000.198,C:\Projects\SGDv3\Project\Unit1.dfm=C:\Projects\SGDv3\Source\UTotalNCadastrado.dfm</Transaction>
+    <Transaction>2016/05/16 14:58:47.000.198,C:\Projects\SGDv3\Project\Unit1.pas=C:\Projects\SGDv3\Source\UTotalNCadastrado.pas</Transaction>
+    <Transaction>2017/02/09 11:43:53.000.428,C:\Projects\SGDv6.0\Source\UDm.pas=</Transaction>
+    <Transaction>2017/02/09 11:45:21.000.052,=C:\Projects\SGDv6.0\Source\UDm.pas</Transaction>
+    <Transaction>2017/02/09 12:25:47.000.595,=C:\Projects\SGDv6.0\Source\UDm.pas</Transaction>
+    <Transaction>2017/04/23 16:41:58.000.600,C:\Projects\AX\AX.dproj=C:\Projects\SGDv6.0\Project\PrjSgd.dproj</Transaction>
+    <Transaction>2017/05/16 19:34:38.000.486,=C:\Projects\AX\AX_Icon.ico</Transaction>
+    <Transaction>2017/05/16 19:56:49.000.451,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.DateTimePickers.pas</Transaction>
+    <Transaction>2017/05/16 19:56:49.000.593,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Ext.pas</Transaction>
+    <Transaction>2017/05/16 19:56:49.000.349,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.ColorTabs.pas</Transaction>
+    <Transaction>2017/05/16 19:56:49.000.520,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.DbGrid.pas</Transaction>
+    <Transaction>2017/05/16 19:56:49.000.405,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.ControlColor.pas</Transaction>
+    <Transaction>2017/05/16 19:56:49.000.278,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.PlatformVclStylesActnCtrls.pas</Transaction>
+    <Transaction>2017/05/16 19:56:49.000.723,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.FormStyleHooks.pas</Transaction>
+    <Transaction>2017/05/16 19:56:49.000.652,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Fixes.pas</Transaction>
+    <Transaction>2017/05/16 19:56:53.000.446,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.NC.pas</Transaction>
+    <Transaction>2017/05/16 19:56:53.000.965,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.pas</Transaction>
+    <Transaction>2017/05/16 19:56:53.000.874,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.Menus.pas</Transaction>
+    <Transaction>2017/05/16 19:56:53.000.373,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Hooks.pas</Transaction>
+    <Transaction>2017/05/16 19:56:53.000.551,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.OwnerDrawFix.pas</Transaction>
+    <Transaction>2017/05/16 19:56:53.000.680,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.Forms.pas</Transaction>
+    <Transaction>2017/05/16 19:56:53.000.743,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.Graphics.pas</Transaction>
+    <Transaction>2017/05/16 19:56:53.000.611,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.ComCtrls.pas</Transaction>
+    <Transaction>2017/05/16 19:56:54.000.326,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.SysStyleHook.pas</Transaction>
+    <Transaction>2017/05/16 19:56:54.000.540,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.WebBrowser.pas</Transaction>
+    <Transaction>2017/05/16 19:56:54.000.458,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.UxTheme.pas</Transaction>
+    <Transaction>2017/05/16 19:56:54.000.095,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.Shadow.pas</Transaction>
+    <Transaction>2017/05/16 19:56:54.000.025,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.ScreenTips.pas</Transaction>
+    <Transaction>2017/05/16 19:56:54.000.256,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.SysControls.pas</Transaction>
+    <Transaction>2017/05/16 19:56:54.000.384,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.SystemMenu.pas</Transaction>
+    <Transaction>2017/05/16 19:56:54.000.169,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\Vcl.Styles.Utils.StdCtrls.pas</Transaction>
+    <Transaction>2017/05/16 19:57:14.000.864,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\delphi-detours-library\DDetours.pas</Transaction>
+    <Transaction>2017/05/16 19:57:14.000.936,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\delphi-detours-library\GenericsCast.pas</Transaction>
+    <Transaction>2017/05/16 19:57:14.000.770,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\delphi-detours-library\CPUID.pas</Transaction>
+    <Transaction>2017/05/16 19:57:15.000.047,=C:\Projects\AX\Source\vcl-styles-utils-master\Common\delphi-detours-library\InstDecode.pas</Transaction>
+  </Transactions>
+</BorlandProject>
